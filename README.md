@@ -1,4 +1,4 @@
-<img width="1186" height="900" alt="95b64458-c36f-40a6-92ac-6e185408e738" src="https://github.com/user-attachments/assets/d121cdc8-4a41-4902-8e16-0dfd6e272e9f" /># A* em Floriano 🗺️
+# Trabalho André Felipe e Ysmael Sá
 
 Implementação do algoritmo A* (A estrela) pra achar o menor caminho entre dois pontos de Floriano-PI, saindo da Rua Godofredo Messias, 186 (Catumbi) até o Mix Atacarejo.
 
